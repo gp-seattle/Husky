@@ -88,3 +88,7 @@ Useful for recalling History of all outputs from Ableton.
 ## v2.5.0 (2023-05-23)
 
 Add ability to update MIDI state based on MIDI history.
+
+## v2.5.1 (2024-04-06)
+
+Update default wireless bus to 09.
